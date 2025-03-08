@@ -10,7 +10,19 @@ The goal is to expand Open WebUI’s potential by enabling AI-driven tools, util
 ### 1. Stock analysis for stocks listed on BSE and NSE using AI
 
 #### Description :
-This AI-powered chat agent analyzes user queries in real time to identify stock-related discussions. If a query pertains to stock analysis, the agent extracts the company name, retrieves the ticker symbol, and performs a detailed evaluation. This includes fundamental and technical analysis, risk and volume assessment, sentiment analysis, quarterly results review, profit and loss evaluation, balance sheet examination, pros and cons assessment, shareholding pattern analysis, and insights from the latest concall. The agent provides a comprehensive, expert-level response for in-depth stock analysis.
+This AI-powered chat agent analyzes user queries in real time to identify stock-related discussions. If a query pertains to stock analysis, the agent extracts the company name, retrieves the ticker symbol, and performs a detailed evaluation. This includes:
+
+  ✅ Fundamental & technical analysis<br>
+  ✅ Risk & volume assessment<br>
+✅ Sentiment analysis<br>
+✅ Quarterly results review<br>
+✅ Profit and loss evaluation<br>
+✅ Balance sheet examination<br>
+✅ Pros & cons assessment<br>
+✅ Shareholding pattern analysis<br>
+✅ Insights from the latest concall<br>
+
+The agent provides a comprehensive, expert-level response for in-depth stock analysis.
 
 #### Source code :
   https://github.com/bhdresh/open-webui-functions/blob/main/stock-analysis/stock_analysis.py
