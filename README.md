@@ -1,4 +1,4 @@
-### Open WebUI Functions
+## Open WebUI Functions
 
 This project is a collection of AI-powered functions designed to extend and enhance Open WebUI.
 
