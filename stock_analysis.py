@@ -1,5 +1,5 @@
 """
-title: Stock analysis for stocks listed on BSE and NSE
+title: Stock analysis for stocks listed on BSE and NSE using AI
 author: Bhadresh Patel
 version: 0.1
 requirements: yfinance, pandas, numpy, textblob, fake_useragent, tika, bs4
